@@ -1,0 +1,37 @@
+.row{
+    margin-top: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.h11{
+    font-size: 70px;
+    color: blue;
+}
+.ab{
+    width: 372px;
+}
+input{
+    margin-top: 10px;
+}
+button{
+    margin-top: 10px;
+}
+body{
+    background-color: whitesmoke;
+}
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+a{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+.bb{
+    display: block;
+    margin-left: 100px;
+}
+.dd{
+    margin-top: 5px;
+}
